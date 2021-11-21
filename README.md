@@ -1,7 +1,7 @@
 # Google Hash Code Pizza Cutter
 ![](https://github.com/darraghmerrick/Google-HashCodes-Pizza-Cutter/blob/main/pizza_cutter.png)
 
-##Introduction
+## Introduction
 Did you know that at any given time, someone is cutting pizza somewhere around the world? The decision
 about how to cut the pizza sometimes is easy, but sometimes it’s really hard: you want just the right amount
 of tomatoes and mushrooms on each slice. If only there was a way to solve this problem using technology...
